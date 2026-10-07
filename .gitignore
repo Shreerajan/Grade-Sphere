@@ -1,0 +1,7 @@
+*.class
+*.dat
+*.bak
+bin/
+.idea/
+.vscode/
+*.iml
